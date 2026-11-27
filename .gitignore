@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+
+node_modules/
+.evershop/
+
+/media/
+/public/
+
+*.backup
+*.code-workspace
+*.log
+
+.DS_Store
+Thumbs.db
